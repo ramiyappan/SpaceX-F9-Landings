@@ -1,6 +1,6 @@
 # SpaceX-F9-Landings
 
-Predict Landing outcome of SpaceX F9 rockets (First-stage)
+Predict Landing outcome of SpaceX F9 rockets (First-stage) using Python, SQL, and Data Visualization.
 
 ## Files
 
