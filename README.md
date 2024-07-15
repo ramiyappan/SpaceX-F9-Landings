@@ -15,3 +15,6 @@ Predict Landing outcome of SpaceX F9 rockets (First-stage) using Python, SQL, an
 `Folium` - Interactive visual analytics using Folium Map
 
 `Models` - Predictive Analysis using Classification Models
+
+>[!NOTE]
+>This Data Analysis project was developed while pursuing the IBM Data Science Professional certification in Coursera.
